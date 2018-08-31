@@ -12,7 +12,7 @@ Cut lettering is automated, but sew, rhinestone, and sequin lettering is process
 Configuration for the system is stored in a json file `lettering.json`.
 
 
-The application attempts to read the configuration file from a local `configs` directory. If one is not found, a hard-coded network location is attempted, currently set to `\\vsc-fs01\Lettering\Corel\WORK FOLDERS\Automation\configs`.
+The application attempts to read the configuration file from a local `configs` directory. If one is not found, a hard-coded network location is attempted.
 
 
 The configuration can be managed from within the editor in application, launched with the `Edit Configs` menu item.
